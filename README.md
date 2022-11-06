@@ -1,6 +1,6 @@
 #Jets Program
 
-- Week 3 SD homework assignment 
+- Week 3 SD homework assignment **Jets Project**
 
 #Description
 
@@ -11,12 +11,13 @@
 - Eclipse
 - Terminal
 - Git/Github
--
+
 
 #Lessons learned
 
--Many lessons this time around! 
--Initially the use of abstract classes/interfaces and getting to practice with extends/implement
--Developing an abstract class that provides adequate info for the classes that will utilize it
--Had issues organizing where specific data should live. Followed the baseline UML provided and amplified it with additional information but still need to work on creating a very solid "rough draft" before I begin to put product into eclipse.
--Just trying when youre not sure is what I need to keep working on!
+- Many lessons this time around! 
+- Initially the use of abstract classes/interfaces and getting to practice with extends/implement
+- Developing an abstract class that provides adequate info for the classes that will utilize it
+- Had issues organizing where specific data should live. Followed the baseline UML provided and amplified it with additional information but still need to work on creating a very solid "rough draft" before I begin to put product into eclipse.
+- try/catch and importing .txt files is still very foreign and will need to keep working with them to have a better idea. 
+- Just trying when you're not sure is what I need to keep working on!
