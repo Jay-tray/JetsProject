@@ -1,0 +1,5 @@
+Recon Aircraft,E3 Sentry,320,5000,270000000
+Combat Aircraft,F16,1500,1600,17000000
+Combat Aircraft,C130,400,1800,75500000
+Recon Aircraft,RC135,500,3500,40000000
+Combat Aircraft,Eurofighter,1400,1500,24000000
